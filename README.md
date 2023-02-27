@@ -11,3 +11,4 @@ streamlit==1.12.0
 
 ## git commands 
 checkout dev : git checkout -b development 
+git push :  git push --set-upstream origin development
